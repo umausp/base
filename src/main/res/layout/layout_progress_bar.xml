@@ -5,7 +5,7 @@
     android:layout_height="wrap_content"
     android:indeterminate="true"
     android:max="100"
-    android:backgroundTint="@color/white"
+    android:backgroundTint="#ffffff"
     android:indeterminateTint="#1a09d6"
     android:layout_marginTop="-7dp"
     xmlns:android="http://schemas.android.com/apk/res/android" />
