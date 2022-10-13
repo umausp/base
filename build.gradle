@@ -89,5 +89,6 @@ dependencies {
     api project(path: ':data')
     implementation "androidx.fragment:fragment-ktx:1.4.1"
     implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.5.0-alpha03"
-    implementation project(path: ':mylocation')
+//    implementation project(path: ':mylocation')
+    implementation 'com.mobibitware:location:0.0.1'
 }
